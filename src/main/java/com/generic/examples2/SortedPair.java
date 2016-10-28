@@ -1,4 +1,4 @@
-package com.monotonic.generics._3_classes_and_interfaces.after;
+package com.generic.examples2;
 
 public class SortedPair<T extends Comparable<T>>
 {
